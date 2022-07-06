@@ -3,3 +3,4 @@
 🐳[4월의 기록](https://github.com/iRRPL-AR/FE-School-2/tree/main/April)   
 🎮[5월의 기록](https://github.com/iRRPL-AR/FE_School_2_daily/tree/main/May)   
 ✍️[6월의 기록](https://github.com/areumz/FE_School_2_daily/tree/main/June)
+⛱️[7월의 기록]
